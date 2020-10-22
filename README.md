@@ -1,7 +1,7 @@
 # Translate
 Um Google Tradutor para rodar no seu terminal
 
-# Como usar ou obter o código:
+# Como usar e obter o código:
 
 > Obter o código
 
