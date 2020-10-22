@@ -1,6 +1,10 @@
 # Translate
 Um Google Tradutor para rodar no seu terminal
 
+ou vocês podem copiar o código e rodar ele direto 
+
+neste site > https://repl.it/languages/python3
+
 # Como usar e obter o código:
 
 > Obter o código
