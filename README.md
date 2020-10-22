@@ -5,7 +5,7 @@ Um Google Tradutor para rodar no seu terminal
 
 > Obter o código
 
-   git clone 
+> git clone https://github.com/lucas-Dk/Translate
 
 * O nome das línguas precisam estar em ingles
 
