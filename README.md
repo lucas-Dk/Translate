@@ -1,7 +1,11 @@
 # Translate
 Um Google Tradutor para rodar no seu terminal
 
-# Como usar:
+# Como usar ou obter o código:
+
+> Obter o código
+
+   git clone 
 
 * O nome das línguas precisam estar em ingles
 
